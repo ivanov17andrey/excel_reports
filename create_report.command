@@ -1,1 +1,1 @@
-cd documents/polyandria && python3 rest_report.py
+cd documents/polyandria/excel_reports && python3 rest_report.py
