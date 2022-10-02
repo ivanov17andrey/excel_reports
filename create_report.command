@@ -1,0 +1,1 @@
+cd documents/polyandria && python3 rest_report.py
